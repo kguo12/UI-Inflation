@@ -1,0 +1,54 @@
+
+ 
+
+  <html>
+  <head>
+  <style>
+  table {
+    
+  font-family: 'Arial';
+  margin: 25px auto;
+  border-collapse: collapse;
+  border: 1px solid black;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1), 0px 10px 20px rgba(0, 0, 0, 0.05), 0px 20px 20px rgba(0, 0, 0, 0.05), 0px 30px 20px rgba(0, 0, 0, 0.05);
+  border-bottom: 2px solid #00cccc;
+
+}
+table tr:hover {
+  background: #d6d6d6;
+}
+table tr:hover td {
+  color: #555;
+}
+table th, table td {
+ background-color: white;
+  border: 1px solid black;
+  padding: 5px 5px;
+  text-align: center;
+  
+}
+table th {
+color: white;
+  text-align: center;
+  font-size: 15px;
+ background: #5a76a8;
+
+  }
+table th.last {
+  border-right: none;
+}
+table tr td:first-child  {
+ background-color: #DBE7FD;
+}
+
+  </style>
+  </head>
+  <body>
+<table id="tblData"><thead><tr><th scope="col"  class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=state');" >State</A></th><th scope="col"  class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=year');" >Year</A></th><th scope="col"  class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=quarter');" >Quarter</A></th><th scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=BenPaid');" >Total Benefits Paid</br>(000)</A></th><th scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=FirPay');" >First Payments</A></th><th scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=AvWklyBenefit');" >Average Weekly Benefit</A></th><th scope="col"  class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=AvBenefitFirst');" >Average Benefits Per First Payment </br>Past 12 Months</A></th></tr></thead><tr><td scope='row'>RI</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$67,507</td><td scope='row'>10,314</td><td scope='row'>$476.44</td><td scope='row'>$6,632</td></tr><tr><td scope='row'>RI</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$44,485</td><td scope='row'>5,231</td><td scope='row'>$469.83</td><td scope='row'>$6,792</td></tr><tr><td scope='row'>RI</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$50,918</td><td scope='row'>7,504</td><td scope='row'>$443.05</td><td scope='row'>$6,938</td></tr><tr><td scope='row'>RI</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$47,082</td><td scope='row'>6,992</td><td scope='row'>$486.23</td><td scope='row'>$6,990</td></tr><tr><td scope='row'>SC</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$42,157</td><td scope='row'>12,357</td><td scope='row'>$300.71</td><td scope='row'>$3,312</td></tr><tr><td scope='row'>SC</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$38,145</td><td scope='row'>11,152</td><td scope='row'>$298.70</td><td scope='row'>$3,449</td></tr><tr><td scope='row'>SC</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$42,550</td><td scope='row'>12,030</td><td scope='row'>$297.32</td><td scope='row'>$3,491</td></tr><tr><td scope='row'>SC</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$37,192</td><td scope='row'>10,032</td><td scope='row'>$303.60</td><td scope='row'>$3,512</td></tr><tr><td scope='row'>SD</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$13,999</td><td scope='row'>2,150</td><td scope='row'>$458.56</td><td scope='row'>$6,131</td></tr><tr><td scope='row'>SD</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$6,655</td><td scope='row'>795</td><td scope='row'>$446.30</td><td scope='row'>$6,176</td></tr><tr><td scope='row'>SD</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$5,290</td><td scope='row'>674</td><td scope='row'>$436.89</td><td scope='row'>$6,474</td></tr><tr><td scope='row'>SD</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$7,255</td><td scope='row'>1,445</td><td scope='row'>$463.51</td><td scope='row'>$6,556</td></tr><tr><td scope='row'>TN</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$51,289</td><td scope='row'>16,039</td><td scope='row'>$256.02</td><td scope='row'>$3,163</td></tr><tr><td scope='row'>TN</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$58,706</td><td scope='row'>17,529</td><td scope='row'>$272.47</td><td scope='row'>$3,266</td></tr><tr><td scope='row'>TN</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$58,666</td><td scope='row'>16,791</td><td scope='row'>$291.75</td><td scope='row'>$3,307</td></tr><tr><td scope='row'>TN</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$45,253</td><td scope='row'>15,937</td><td scope='row'>$304.38</td><td scope='row'>$3,227</td></tr><tr><td scope='row'>TX</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$718,604</td><td scope='row'>98,683</td><td scope='row'>$494.47</td><td scope='row'>$7,195</td></tr><tr><td scope='row'>TX</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$739,307</td><td scope='row'>101,563</td><td scope='row'>$493.81</td><td scope='row'>$7,393</td></tr><tr><td scope='row'>TX</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$795,535</td><td scope='row'>104,966</td><td scope='row'>$488.89</td><td scope='row'>$7,419</td></tr><tr><td scope='row'>TX</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$746,665</td><td scope='row'>96,993</td><td scope='row'>$497.37</td><td scope='row'>$7,459</td></tr><tr><td scope='row'>UT</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$93,252</td><td scope='row'>12,412</td><td scope='row'>$559.50</td><td scope='row'>$7,175</td></tr><tr><td scope='row'>UT</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$72,169</td><td scope='row'>9,113</td><td scope='row'>$569.47</td><td scope='row'>$7,390</td></tr><tr><td scope='row'>UT</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$72,036</td><td scope='row'>8,698</td><td scope='row'>$571.72</td><td scope='row'>$7,586</td></tr><tr><td scope='row'>UT</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$76,755</td><td scope='row'>11,182</td><td scope='row'>$573.55</td><td scope='row'>$7,589</td></tr><tr><td scope='row'>VA</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$69,566</td><td scope='row'>18,146</td><td scope='row'>$349.30</td><td scope='row'>$4,024</td></tr><tr><td scope='row'>VA</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$71,549</td><td scope='row'>15,937</td><td scope='row'>$348.39</td><td scope='row'>$4,218</td></tr><tr><td scope='row'>VA</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$73,390</td><td scope='row'>16,773</td><td scope='row'>$347.44</td><td scope='row'>$4,248</td></tr><tr><td scope='row'>VA</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$73,795</td><td scope='row'>17,117</td><td scope='row'>$365.31</td><td scope='row'>$4,241</td></tr><tr><td scope='row'>VI</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$988</td><td scope='row'>173</td><td scope='row'>$411.93</td><td scope='row'>$5,995</td></tr><tr><td scope='row'>VI</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$1,157</td><td scope='row'>166</td><td scope='row'>$437.77</td><td scope='row'>$6,155</td></tr><tr><td scope='row'>VI</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$1,529</td><td scope='row'>280</td><td scope='row'>$443.93</td><td scope='row'>$6,165</td></tr><tr><td scope='row'>VI</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$1,686</td><td scope='row'>235</td><td scope='row'>$443.63</td><td scope='row'>$6,276</td></tr><tr><td scope='row'>VT</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$23,961</td><td scope='row'>3,671</td><td scope='row'>$545.97</td><td scope='row'>$5,579</td></tr><tr><td scope='row'>VT</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$14,990</td><td scope='row'>2,492</td><td scope='row'>$532.67</td><td scope='row'>$5,866</td></tr><tr><td scope='row'>VT</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$12,696</td><td scope='row'>1,914</td><td scope='row'>$526.93</td><td scope='row'>$6,189</td></tr><tr><td scope='row'>VT</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$13,826</td><td scope='row'>2,648</td><td scope='row'>$556.87</td><td scope='row'>$6,105</td></tr><tr><td scope='row'>WA</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$512,796</td><td scope='row'>53,627</td><td scope='row'>$699.00</td><td scope='row'>$10,131</td></tr><tr><td scope='row'>WA</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$430,749</td><td scope='row'>37,443</td><td scope='row'>$715.57</td><td scope='row'>$10,448</td></tr><tr><td scope='row'>WA</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$413,292</td><td scope='row'>35,254</td><td scope='row'>$717.05</td><td scope='row'>$10,576</td></tr><tr><td scope='row'>WA</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$476,432</td><td scope='row'>49,347</td><td scope='row'>$720.71</td><td scope='row'>$10,436</td></tr></table></body></html>
