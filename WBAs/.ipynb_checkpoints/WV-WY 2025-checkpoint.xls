@@ -1,0 +1,54 @@
+
+ 
+
+  <html>
+  <head>
+  <style>
+  table {
+    
+  font-family: 'Arial';
+  margin: 25px auto;
+  border-collapse: collapse;
+  border: 1px solid black;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1), 0px 10px 20px rgba(0, 0, 0, 0.05), 0px 20px 20px rgba(0, 0, 0, 0.05), 0px 30px 20px rgba(0, 0, 0, 0.05);
+  border-bottom: 2px solid #00cccc;
+
+}
+table tr:hover {
+  background: #d6d6d6;
+}
+table tr:hover td {
+  color: #555;
+}
+table th, table td {
+ background-color: white;
+  border: 1px solid black;
+  padding: 5px 5px;
+  text-align: center;
+  
+}
+table th {
+color: white;
+  text-align: center;
+  font-size: 15px;
+ background: #5a76a8;
+
+  }
+table th.last {
+  border-right: none;
+}
+table tr td:first-child  {
+ background-color: #DBE7FD;
+}
+
+  </style>
+  </head>
+  <body>
+<table id="tblData"><thead><tr><th scope="col"  class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=state');" >State</A></th><th scope="col"  class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=year');" >Year</A></th><th scope="col"  class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=quarter');" >Quarter</A></th><th scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=BenPaid');" >Total Benefits Paid</br>(000)</A></th><th scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=FirPay');" >First Payments</A></th><th scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=AvWklyBenefit');" >Average Weekly Benefit</A></th><th scope="col"  class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=AvBenefitFirst');" >Average Benefits Per First Payment </br>Past 12 Months</A></th></tr></thead><tr><td scope='row'>WI</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$136,124</td><td scope='row'>35,221</td><td scope='row'>$349.27</td><td scope='row'>$3,856</td></tr><tr><td scope='row'>WI</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$82,615</td><td scope='row'>18,618</td><td scope='row'>$345.67</td><td scope='row'>$3,916</td></tr><tr><td scope='row'>WI</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$79,638</td><td scope='row'>19,425</td><td scope='row'>$335.21</td><td scope='row'>$3,907</td></tr><tr><td scope='row'>WI</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$80,729</td><td scope='row'>22,303</td><td scope='row'>$347.00</td><td scope='row'>$3,967</td></tr><tr><td scope='row'>WV</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$50,454</td><td scope='row'>10,445</td><td scope='row'>$429.96</td><td scope='row'>$5,282</td></tr><tr><td scope='row'>WV</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$41,112</td><td scope='row'>6,328</td><td scope='row'>$429.82</td><td scope='row'>$5,506</td></tr><tr><td scope='row'>WV</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$38,062</td><td scope='row'>5,054</td><td scope='row'>$444.30</td><td scope='row'>$5,791</td></tr><tr><td scope='row'>WV</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$38,275</td><td scope='row'>6,606</td><td scope='row'>$459.94</td><td scope='row'>$5,905</td></tr><tr><td scope='row'>WY</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>$17,252</td><td scope='row'>2,616</td><td scope='row'>$488.44</td><td scope='row'>$5,941</td></tr><tr><td scope='row'>WY</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>$11,239</td><td scope='row'>1,646</td><td scope='row'>$492.07</td><td scope='row'>$6,043</td></tr><tr><td scope='row'>WY</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>$8,678</td><td scope='row'>1,174</td><td scope='row'>$486.74</td><td scope='row'>$6,156</td></tr><tr><td scope='row'>WY</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>$13,186</td><td scope='row'>2,664</td><td scope='row'>$496.19</td><td scope='row'>$6,217</td></tr></table></body></html>
