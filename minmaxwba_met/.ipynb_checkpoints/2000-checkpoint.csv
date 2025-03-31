@@ -1,0 +1,54 @@
+State,Qualifying wage or employment,Waiting week,Computation of wba,Wba for total unemployment Min,Wba for total unemployment Max,Earnings disregarded,Proportion of base period wages,Benefit weeks for total unemployment Min,Benefit weeks for total unemployment Max,Size of firm,1999 Taxable wage base
+AL,1- ½ x hqw,0,1/24 of avg. of 2 highest qtrs.,$45,$190,$15,1/3,15+,26,20 wks.,$8000
+AK,"$1000; wages in 2 qtrs.",1,"4.4-0.9% of annual wages, +$24 per dep. up to $72",44-68,248-320,"1/4 wages over $50","Weighted schedule of bpw in relation to hqw",16,26,Any time,24500
+AZ,"1- ½ x hqw; $1000 in HQ",1,1/25,$40,$205,$30,1/3,12+,26,20 wks.,7000
+AR,"27 x wba; wages in 2 qtrs.",1,"1/26 up to 66-2/3% of State aww",$55,$309,2/5,1/3,9,26,10 days,9000
+CA,"$1300 in HQ or $900 in HQ w/ BP wages = to 1-1/4 x HQ",1,1/23 - 1/33,$40,$230,"Greater of $25 or 25% of wages",1/2,14+,26,"Over $100 in any qtr.",7000
+CO,"40 or $2500 in BP, whichever is greater",1,"60% of 1/26 of clmt.'s 2 highest qtrs. up to 50% of 1/52 of bpw",$25,$337,1/4 wba,1/3,13+,26,20 wks,10000
+CT,40,0,"1/26 of avg. of 2 highest qtrs. up to 60% of State aww +$10 per dep. up to ½ wba or 5 deps.",15-25,362-412,1/3 wages,Uniform,26,26,20 wks.,15000
+DE,36,0,,$20,$315,"Greater of $10 or 30% of wba",1/2,24,26,20 wks.,8500
+DC,"1- ½ x hqw; not less than $1950; $1300 in 1 qtr.",1,"1/26, up to 50% of State aww",$50,$309,1/5 wages,1/2,20,26,Any time,9000
+FL,"1- ½ x hqw; $3400 in BP",1,1/26,$32,$275,"8 x Fed. hrly. min. wage",25%,26,26,20 wks.,7000
+GA,"150% of hqw; wages in 2 qtrs.",0,1/48 of 2 highest qtrs.,$39,$264,$30,1/4,9+,26,20 wks.,8500
+HI,"26; wages in 2 qtrs.",1,1/21 up to 70% of State aww,$5,$364,$50,Uniform,26,26,Any time,27000
+ID,"1- 1/4 x hqw; not less than the min. qualifying wages in 1 qtr.; wages in 2 qtrs.",1,1/26 up to 60% of State aww,$51,$273,1/2 wba,"Weighted schedule of bpw in relation to hqw",10,26,"20 wks. or $1500 in any qtr",23600
+IL,"$1600; $440 outside HQ",1,49.5% of clmt. aww in 2 highest qtrs. up to 49.5% of State aww,$51,284-376,1/2 wba,Uniform,26,26,20 wks.,9000
+IN,"1-1/4 x hqw; not less than $2750; $1650 in last 2 qtrs.",1,"5% of 1st $2000 in HQ, 4% of remaining HQ wages",$50,$252,"Greater of $3 or 20% of wba from other than BP employer",28%,8+,26,20 wks.,7000
+IA,"1-1/4 x hqw; 3.5% of the Statewide aaw in HQ; 1.75% of aaw in a 2nd qtr.",0,,37-47,263-307,1/4 wba,1/3,7+,26,20 wks.,17300
+KS,"30; wages in 2 qtrs.",1,4.25% of hqw up to 60% of State aww,$73,$292,25% of wba,1/3,10,26,20 wks.,8000
+KY,"1- ½ x hqw; 8 x wba in last 2 qtrs.; $750 in 1 qtr. and $750 in other qtrs.",0,1.235% of BP wages up to 62% of State aww,$39,$268,1/5 wages,1/3,15,26,20 wks.,8000
+LA,"$1200; 1 - ½ x hqw",1,1/25 of 4 qtrs.,$12,$215,"Lesser of ½ wba or $50",27%,26,26,20 wks.,7000
+ME,"2 x annual aww in each of 2 qtrs. & 6 x annual aww in BP",1,1/22 up to 52% of State aww +$10 per dep. up to ½ wba,44-64,254-381,$25,1/3,26,26,20 wks.,12000
+MD,"1- ½ x hqw; $576.01 in 1 qtr.; wages in 2 qtrs.",0,1/24 + $8 per dep. up to $40,25-33,$250,$70,Uniform,26,26,Any time,8500
+MA,"30; not less than $2000",1,1/21 - 1/26 up to 57.5% of State aww + $25 per dep. up to ½ wba,14-21,402-583,1/3 wba,36%,10+/-30,30,13 wks.,10800
+MI,20 wks. employment at 30 x State min. hourly wage,0,67% of clmt.'s after tax earnings (ATE) up to a max. of $300,$87,$300,,3/4 wks. employment,15,26,"20 wks. or $1000 in CY",9500
+MN,"1- 1/4 x hqw, at least $1000 in HQ",1,,$38,331-410,"Greater of $50 or 25% of wages",1/3,10+,26,20 wks.,19000
+MS,"40; $780 in 1 qtr.; wages in 2 qtrs.",1,1/26,$30,$190,$40,1/3,13+,26,20 wks.,7000
+MO,"1- ½ x hqw; $1000 in 1 qtr.; wages in 2 qtrs.",1,4.0%,$45,$220,$20,1/3,11+,26,20 wks.,7500
+MT,"1- ½ x hqw; 7% of aaw in BP or 50% of aaw",1,1% of BP wages or 1.9% of wages in 2 HQ's up to 60% of State aww,$63,$254,½ wages in excess of 1/4 wba,"Weighted schedule of bpw in relation to hqw",8,26,"$1000 in current or preceding year",17700
+NE,"$1600; $800 in each of 2 qtrs.",1,1/20 - 1/24,$36,$206,½ wba,1/3,20,26,20 wks.,7000
+NV,1- ½ x hqw,0,"1/25, up to 50% of State aww",$16,$267,1/4 wages,1/3,12+,26,$225 in any qtr.,18600
+NH,"$2800; $1200 in each of 2 qtrs.",0,1.0 - 1.1% of annual wages,$32,$301,30% of wba,Uniform,26,26,20 wks.,8000
+NJ,20 wks. emplmt. at 20% of aww; or 12 x aww,1,60% of clmt.'s aww + d.a. up to 56-2/3% of State aww,$61,$407,"Greater of $5 or 1/5 wba",3/4 wks. employment,15,26,$1000 in any year,21200
+NM,1 - 1/4 x hqw,1,"1/26; not less than 10% nor more than 50% of State aww",$46,$246,1/5 wba,3/5,19,26,"20 wks. or $450 in any qtr.",14800
+NY,"1 ½ x hqw; least $1600in hq; wages in 2 qtrs.",1,1/26 unless less than $3575 than 1/25,$40,$365,,Uniform,26,26,$300 in any qtr.,8500
+NC,6 x State aww,1,1/26 of HQ up to 66-2/3% of State aww,$25,$322,10% aww in HQ,"Wgt.sched. of bpw in relation to hqw",13-26,26,20 wks.,13200
+ND,1 - ½ x hqw,1,"1/65 of the 2 highest qtrs.; and ½ total wgs. in the 3rd qtr., up to 62% of the State aww",$43,$283,60% of wba,"Weighted schedule of bpw in relation to hqw",12,26,20 wks.,16100
+OH,20 wks. employment w/ wages in ea. wk. of 27.5% of State aww,1,½ clmt.'s aww + d.a. of $1-$83 based on clmt.'s aww and no. of dep.,$77,279-375,1/5 wba,"20 x wba; wba for ea. qualifying wk. excess of 20",20,26,20 wks.,9000
+OK,"$1500 and 1 - ½ x hqw; $11400",1,1/23,$16,$276,$100,20+,26,20 wks.,12200
+OR,"1- ½ x hqw; not less than $1000 in BP or 500 hrs. of employment in the BP",1,1.25% of bpw up to 64% of State aww,$84,$360,1/3 wba,1/3,4+,26,"18 wks. or $225 in any qtr.",23000
+PA,"37 + - 40; $800 in HQ and $1320 in BP; at least 20% of bpw outside HQ",1,1/23 - 1/25 up to 66-2/3% of State aww + $5 for 1 dep; $3 for 2nd,35-40,375-393,"Greater of $6 or 40% wba","At least 16 credit wks. for min., 18 for max.",16,26,Any time,8000
+PR,"40 x wba not less than $280; $75 in 1 qtr.; wages in 2 qtrs.",1,"1/11 - 1/26; up to 50% of State aww",$7,$133,wba,Uniform,26,26,Any time,7000
+RI,,1,4.62% of hqw up to 67% of State aww + greater of $10 or 5% of the benefit rate per dep. up to 5 deps.,52-97,383-478,1/5 wba,36%,15+,26,Any time,14000
+SC,"1- ½ x hqw; not less than $900; $540 in 1 qtr.",1,1/26 up to 66-2/3% of State aww,$20,$238,1/4 wba,1/3,15,26,20 wks.,7000
+SD,"$728 in HQ; 20 x wba outside HQ",1,1/26 up to 50% of State aww,$28,$214,1/4 wages over $25,1/3,15+,26,20 wks.,7000
+TN,"40; $780.01 in highest 2 qtrs.",1,1/26 of avg. 2 highest qtrs.,$30,$255,> of $50 or 25% of wba,1/4,12+,26,20 wks.,7000
+TX,37 x wba,1,1/25,$47,$287,"Greater of $5 or 1/4 wba",27%,9+,26,20 wks,9000
+UT,1- ½ x hqw,1,1/26 up to 60% of State insured avg. FY weekly wage,$20,$298,3/10 wba,27%,10,26,"$140 in CQ in current or preceding CY",18500
+VT,"$1299 in a qtr.; BP wages of 40% of total HQ wages",1,,$40,$287,"Greater of 30% of wba or $40",Uniform,26,26,20 wks.,8000
+VA,"50; wages in 2 qtrs.",1,1/50 of the 2 highest qtrs.,$50,$230,$25,1/4,12,26,20 wks.,8000
+VI,"1- ½ x hqw; $858 in HQ or $858 in HQ and 39 x wba in BP",1,1/26 up to 50% of State aww,$32,$233,Wages in excess of $15,1/3,13+,26,Any time,14600
+WA,680 hours,1,1/25 of avg. 2 highest qtrs. wages up to 70% of State aww,$94,$441,1/4 wages over $5,1/3,16 +/-30,30,Any time,26500
+WV,"$2200 and wages in 2 qtrs",1,1.0% of annual wages up to 66-2/3% of State aww,$24,$318,$60,Uniform,26,26,20 wks.,8000
+WI,"30 x wba; 4 x wba outside HQ",0,4% of hqw up to max. wba,$44,$297,"$30 plus 33% of wages in excess of $30",40%,12,26,20 wks.,10500
+WY,"1.4 x hqw; 8% of State aaw in BP",1,4% of hqw up to 55% of State aww,$19,$261,Wages in excess of 50% of wba,3/10,12-26,26,"$500 in current or preceding CY",13100
