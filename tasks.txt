@@ -1,3 +1,0 @@
-Tasks:
-- Calculate real state values 2000-2017 for those with data
-- Produce figures

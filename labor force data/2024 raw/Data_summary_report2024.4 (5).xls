@@ -1,0 +1,58 @@
+
+ 
+  <html>
+  <head>
+  <style>
+  table {
+    
+  font-family: 'Arial';
+  margin: 25px auto;
+  border-collapse: collapse;
+  border: 1px solid black;
+  box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1), 0px 10px 20px rgba(0, 0, 0, 0.05), 0px 20px 20px rgba(0, 0, 0, 0.05), 0px 30px 20px rgba(0, 0, 0, 0.05);
+  border-bottom: 2px solid #00cccc;
+
+}
+table tr:hover {
+  background: #d6d6d6;
+}
+table tr:hover td {
+  color: #555;
+}
+table th, table td {
+ background-color: white;
+  border: 1px solid black;
+  padding: 5px 5px;
+  text-align: center;
+  
+}
+table th {
+color: white;
+  text-align: center;
+  font-size: 15px;
+ background: #5a76a8;
+
+  }
+table th.last {
+  border-right: none;
+}
+table tr td:first-child  {
+ background-color: #DBE7FD;
+}
+
+  </style>
+  </head>
+  <body>
+<table id="tblData"><tr><th scope="col" rowspan=2 class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=state');">State</A></th><th scope="col" rowspan=2 class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=year');" >Year</A></th><th scope="col" rowspan=2 class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=quarter');" >Quarter</A></th><th  rowspan=2 align=center scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=CivLaborForce');">Civilian Labor Force</br>(000)</A></th><th  rowspan=2 align=center scope="col"  class="fixed-side"><A  
+  onclick="open_window('definition.asp?var=CoEmploy');">Covered Employment</br>(000)</A></th><th  rowspan=2 align=center scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=subEmp');">Subject Employers</br>(000)</A></th><th  colspan=2 align=center  scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=totUnempRate');">Total Unemployment Rate</A></th><th  rowspan=2 align=center scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=TotUnemp');">Total Unemployed</br>(000)</A></th><th  rowspan=2 align=center scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=InsUnemploy');">Insured Unemployed Regular Programs</br>(000)</A></th><th  rowspan=2 align=center scope="col"  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=InsUnemploy');">Insured Unemployed All Programs</br>(000)</A></th><th  colspan=2 align=center  class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=RecRate');">Recipiency Rates Regular Programs </br></A></th><th  colspan=2 align=center   class="fixed-side"><A 
+  onclick="open_window('definition.asp?var=RecRate');">Recipiency Rates All Programs </br></A></th></tr><tr><th scope="col"  style="color:white;" >(%)</th><th scope="col"  style="color:white;" >Rank</th><th scope="col"  style="color:white;" >(%)</th><th scope="col"  style="color:white;" >Rank</th><th scope="col"  style="color:white;" >(%)</th><th scope="col" style="color:white;" >Rank</th></tr><tr><td scope='row'>WI</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>3,149</td><td scope='row'>2,855</td><td scope='row'>172</td><td scope='row'>3.3</td><td scope='row'>38</td><td scope='row'>104</td><td scope='row'>39.40</td><td scope='row'>39.40</td><td scope='row'>37.8</td><td scope='row'>14</td><td scope='row'>37.8</td><td scope='row'>14</td></tr><tr><td scope='row'>WI</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>3,175</td><td scope='row'>2,927</td><td scope='row'>173</td><td scope='row'>3</td><td scope='row'>37</td><td scope='row'>96</td><td scope='row'>25.21</td><td scope='row'>25.21</td><td scope='row'>26.4</td><td scope='row'>20</td><td scope='row'>26.4</td><td scope='row'>20</td></tr><tr><td scope='row'>WI</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>3,201</td><td scope='row'>2,928</td><td scope='row'>174</td><td scope='row'>2.9</td><td scope='row'>46</td><td scope='row'>93</td><td scope='row'>25.30</td><td scope='row'>25.30</td><td scope='row'>27.2</td><td scope='row'>16</td><td scope='row'>27.2</td><td scope='row'>16</td></tr><tr><td scope='row'>WI</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>3,177</td><td scope='row'>2,929</td><td scope='row'>175</td><td scope='row'>2.7</td><td scope='row'>46</td><td scope='row'>85</td><td scope='row'>25.24</td><td scope='row'>25.24</td><td scope='row'>29.6</td><td scope='row'>19</td><td scope='row'>29.6</td><td scope='row'>19</td></tr><tr><td scope='row'>WV</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>783</td><td scope='row'>663</td><td scope='row'>42</td><td scope='row'>4.6</td><td scope='row'>11</td><td scope='row'>36</td><td scope='row'>10.81</td><td scope='row'>10.81</td><td scope='row'>29.7</td><td scope='row'>24</td><td scope='row'>29.7</td><td scope='row'>24</td></tr><tr><td scope='row'>WV</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>793</td><td scope='row'>672</td><td scope='row'>43</td><td scope='row'>4</td><td scope='row'>15</td><td scope='row'>31</td><td scope='row'>8.73</td><td scope='row'>8.73</td><td scope='row'>27.8</td><td scope='row'>18</td><td scope='row'>27.8</td><td scope='row'>18</td></tr><tr><td scope='row'>WV</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>792</td><td scope='row'>658</td><td scope='row'>43</td><td scope='row'>4.1</td><td scope='row'>23</td><td scope='row'>33</td><td scope='row'>7.62</td><td scope='row'>7.62</td><td scope='row'>23.3</td><td scope='row'>22</td><td scope='row'>23.3</td><td scope='row'>22</td></tr><tr><td scope='row'>WV</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>779</td><td scope='row'>675</td><td scope='row'>43</td><td scope='row'>3.5</td><td scope='row'>27</td><td scope='row'>28</td><td scope='row'>7.78</td><td scope='row'>7.78</td><td scope='row'>28.3</td><td scope='row'>21</td><td scope='row'>28.3</td><td scope='row'>21</td></tr><tr><td scope='row'>WY</td><td scope='row'>2024</td><td scope='row'>1</td><td scope='row'>295</td><td scope='row'>265</td><td scope='row'>27</td><td scope='row'>3.5</td><td scope='row'>32</td><td scope='row'>10</td><td scope='row'>2.96</td><td scope='row'>2.96</td><td scope='row'>28.5</td><td scope='row'>26</td><td scope='row'>28.5</td><td scope='row'>26</td></tr><tr><td scope='row'>WY</td><td scope='row'>2024</td><td scope='row'>2</td><td scope='row'>296</td><td scope='row'>275</td><td scope='row'>27</td><td scope='row'>3</td><td scope='row'>37</td><td scope='row'>9</td><td scope='row'>1.90</td><td scope='row'>1.90</td><td scope='row'>21.3</td><td scope='row'>28</td><td scope='row'>21.3</td><td scope='row'>28</td></tr><tr><td scope='row'>WY</td><td scope='row'>2024</td><td scope='row'>3</td><td scope='row'>299</td><td scope='row'>280</td><td scope='row'>27</td><td scope='row'>3</td><td scope='row'>45</td><td scope='row'>9</td><td scope='row'>1.54</td><td scope='row'>1.54</td><td scope='row'>17.4</td><td scope='row'>33</td><td scope='row'>17.4</td><td scope='row'>33</td></tr><tr><td scope='row'>WY</td><td scope='row'>2024</td><td scope='row'>4</td><td scope='row'>297</td><td scope='row'>273</td><td scope='row'>27</td><td scope='row'>3.4</td><td scope='row'>30</td><td scope='row'>10</td><td scope='row'>2.23</td><td scope='row'>2.23</td><td scope='row'>21.9</td><td scope='row'>31</td><td scope='row'>21.9</td><td scope='row'>31</td></tr></table></div></body></html>

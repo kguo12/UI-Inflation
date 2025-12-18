@@ -1,13 +1,4 @@
-# UI-Inflation
-Data repository
-Time period: 2003-2023
+# Inflation's Impact on the Unemployment Insurance Program
+Data and analysis repository
 
-- (real) Average, Max, Min Weekly Benefit Amounts (WBA) by state, inflation adjusted, replacement rates (over average weekly earnings from QCEW)
-- Recipiency Rates
-- Price indices/Housing costs/cost of living indices
-- CPI Levels (Regional, State)
-- AWW Indexers vs Non Indexers
-- Percent Changes in Real WBAs
-- Labor Force Sizes
-- HUD Income Limits
-
+[Definitions by DOLETA](https://oui.doleta.gov/unemploy/data_summary/definitions.pdf)
