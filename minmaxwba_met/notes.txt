@@ -1,7 +1,0 @@
-MET Method:
-Explicit value given
-WBA -> use average WBA amount for that year
-HQW -> use average wages for that year
-“Highest quarters minimum” -> sum them up
-
-WBA -> take the lower amount (base, no dependents)
