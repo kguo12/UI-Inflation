@@ -11,3 +11,7 @@ Amounts are expressed in contemporary dollars, and users studying change over ti
 Inflation-adjusted versions of this variable created with the Adjust Monetary Values tool will use the census/survey year (i.e., YEAR) as the reference year."
 
 2004, 2024 RENTGRS data expressed in sample year values.
+
+Citation:
+
+Steven Ruggles, Sarah Flood, Matthew Sobek, Daniel Backman, Grace Cooper, Julia A. Rivera Drew, Stephanie Richards, Renae Rodgers, Jonathan Schroeder, and Kari C.W. Williams. IPUMS USA: Version 16.0 [dataset]. Minneapolis, MN: IPUMS, 2025.
