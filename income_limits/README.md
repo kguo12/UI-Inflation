@@ -9,4 +9,4 @@ VLIL - 50% of MFI
 ELIL - 30% of MFI
 LIL - 80% of MFI
 
-We use 1 Person Income Limit Data
+We use 1 Person Income Limit Data (0.7 factor of MFI)
